@@ -1,0 +1,2 @@
+include ':app', ':multibaseurlmanager'
+rootProject.name='MultiBaseUrlManager'
